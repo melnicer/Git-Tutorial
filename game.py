@@ -6,5 +6,5 @@ if(num1 < num2):
 else:
     print("No")
 
-#Yo
+#Nice :)
 print("Game done")
