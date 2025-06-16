@@ -5,3 +5,5 @@ if(num1 < num2):
     print("Yes")
 else:
     print("No")
+
+print("Game done")
